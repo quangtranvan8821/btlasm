@@ -16,10 +16,8 @@ void main()
     cout<<"\n             -----------o0o----------";
     cout<<"\n               BAI TAP LON MON LTHT";
     cout<<"\n\n  Cac Sinh Vien thuc hien:";
-    cout<<"\n      1. Nguyen Thi Le     Lop: 1910A04";
-    cout<<"\n      2. Tran Thu Phuong   Lop: 1910A04";
-    cout<<"\n      3. Nguyen Van Tien   Lop: 1910A04";
-    cout<<"\n      4. Pham Le Viet Tu   Lop: 1910A04";
+    cout<<"\n      1. Tran Van Quang     Lop: 1910A05";
+    cout<<"\n      2. Nguyen Thanh Nam   Lop: 1910A04";
     cout<<"\n\n  An phim bat ky de tiep tuc CT con an Esc thi thoat";
     tl = getch();
     if(tl != 27)
